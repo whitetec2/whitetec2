@@ -1,6 +1,8 @@
 {
-"name": "RANMA pool",
-"description": "We will keep stable operation in mind.",
-"ticker": "RANMA",
-"homepage": "https://twitter.com/RANMA83054020"
+    "name": "RANMA pool",
+    "description": "We will keep stable operation in mind.",
+    "ticker": "RANMA",
+    "homepage": "https://twitter.com/RANMA83054020",
+    "extended": "",
+    "nonce":"1704856733"
 }
